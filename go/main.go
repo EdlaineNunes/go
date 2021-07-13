@@ -20,4 +20,6 @@ func main() {
 	greet("Hello", "Edlaine")
 	greet("Hello", "World!")
 	fmt.Printf(formatGreet("Imprimir", "formatado!"))
+	// fmt.Printf(str.Reverse("Hello"))
 }
+
