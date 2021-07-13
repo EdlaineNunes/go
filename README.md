@@ -14,3 +14,7 @@ Primeiros passos com a linguagem Golang - Estágio tech 2021 - americanas.sa
               *ou*
      ~$ docker pull golang:1.16.5
     - OBS: optei pelo apt-get
+
+commands:
+
+- go run <nome_do_arquivo.go> *exemplo:::::* go run main.go
